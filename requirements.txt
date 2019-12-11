@@ -5,7 +5,7 @@ billiard==3.3.0.23
 binaryornot==0.3.0
 celery==3.1.21
 cookiecutter==0.8.0
-Django==1.7.11
+Django==1.11.23
 django-filter==0.7
 djangorestframework==2.3.13
 djangorestframework-csv==1.3.3
