@@ -18,7 +18,7 @@ kombu==5.0.2
 Markdown==3.3.3
 MarkupSafe==1.1.1
 mock==4.0.2
-paramiko==2.7.2
+paramiko==2.10.1
 psycopg2-binary==2.8.6
 pycrypto==2.6.1
 python-dateutil==2.8.1
